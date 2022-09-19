@@ -1,0 +1,12 @@
+:root {
+    font-size: 15px;
+}
+
+.text-bg-black, .bg-black{
+    background: black;
+    color: white;
+}
+.navbar-nav a {
+   
+    color: white;
+}
