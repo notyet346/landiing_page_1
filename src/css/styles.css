@@ -9,3 +9,15 @@
 .navbar-nav a {
     font-size: rem;
 }
+
+.offcanvas-header img {
+    margin: 2rem 0 0 1rem;
+}
+.btn-close {
+    font-size: 1.5rem;
+    opacity: 1;
+    
+}
+.offcanvas-header button {
+    margin: 2rem 1rem 0 0 ;
+}
